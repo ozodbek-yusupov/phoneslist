@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card {
+    margin: 7px;
+}
+.card img {
+    object-fit: cover;
+}
+.mainpage {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://static.tildacdn.com/tild6434-3732-4161-a339-633966306335/5b4f4af2956cd9863498.jpg);
+    background-size: cover;
+    background-position: center;
+}
